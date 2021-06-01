@@ -1,0 +1,5 @@
+jsonFile_raw,jsonFile_prep,file_name_prep,file_name_final
+/home/anm/fashionWebScraping/fashionWebScraping/rawdata_MUDO.json,/home/anm/fashionWebScraping/jsonFiles/prepdata_MUDO.json,prepdata_MUDO.json,finaldata_MUDO.json
+/home/anm/fashionWebScraping/fashionWebScraping/rawdata_YARGICI.json,/home/anm/fashionWebScraping/jsonFiles/prepdata_YARGICI.json,prepdata_YARGICI.json,finaldata_YARGICI.json
+/home/anm/fashionWebScraping/fashionWebScraping/rawdata_MODANISA.json,/home/anm/fashionWebScraping/jsonFiles/prepdata_MODANISA.json,prepdata_MODANISA.json,finaldata_MODANISA.json
+/home/anm/fashionWebScraping/fashionWebScraping/rawdata_BOYNER.json,/home/anm/fashionWebScraping/jsonFiles/prepdata_BOYNER.json,prepdata_BOYNER.json,finaldata_BOYNER.json
